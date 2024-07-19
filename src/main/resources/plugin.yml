@@ -1,0 +1,4 @@
+name: UISystem-Server
+version: '${version}'
+main: com.github.brokendust.UISystem
+api-version: '1.20'

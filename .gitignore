@@ -1,0 +1,6 @@
+# 项目排除路径
+/.gradle/
+/.idea/
+# 项目排除路径
+/build/
+/build/classes/java/main/
